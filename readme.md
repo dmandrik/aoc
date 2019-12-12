@@ -6,9 +6,19 @@ Task was completed using PHP 7.2.1 on Windows.
 ###Installation
 1. Pull project
 2. Navigate to directory
-3. Run command
+3. Install PHPUnit using command
+```
+composer install
+```
+4. Run command to see result
 ```
 php aocDay4.php
+```
+
+###Testing
+To run tests copy paste to console
+```
+./vendor/bin/phpunit --bootstrap vendor/autoload.php Tests
 ```
 
 ###Notes
