@@ -1,0 +1,7 @@
+{
+    "name": "dmandrik/advent-of-code",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
